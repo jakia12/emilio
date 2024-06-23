@@ -175,7 +175,7 @@
   .who {
     padding-top: 48px;
     padding-bottom: 117vw;
-    background-image: url("../img/about_bg_mob.png");
+    /* background-image: url("../img/about_bg_mob.png"); */
   }
 
   .who__descr {
