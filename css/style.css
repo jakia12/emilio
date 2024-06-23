@@ -169,14 +169,13 @@ h3 {
 
 .who {
   padding-top: 12vw;
-  padding-bottom: 330px;
+  padding-bottom: 126px;
   /* background-image: url('../img/about_bg.png'); */
   background-size: 100% auto;
   background-position: center bottom;
   background-repeat: no-repeat;
   background-color: #b81e13;
 }
-
 .who__descr {
   max-width: 650px;
 }
